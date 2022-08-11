@@ -1,10 +1,13 @@
 english,french
 "[low, high]","[inférieure,  supérieure]"
+'a',« a »
+'b',« b »
 A27,Z27
 A2W,Z2O
 AAV,VAM
 Abundance,Abondance
 Abyssal Skate,raie abyssale
+Actual, réalisée
 Age,Âge
 Age (years),Âge (années)
 Age at 50% maturity,Âge à 50% maturité
@@ -29,6 +32,7 @@ Aurora Rockfish,sébaste aurore
 Average Annual Variability,Variabilité annuelle moyenne
 Average F,F moyen
 Average M,M moyen
+Bank,Banque
 Base model,Modèle de base
 Basis,Fondament
 Basking Shark,requin-pèlerin
@@ -58,6 +62,7 @@ Bounds,Limites
 British Columbia,Colombie-Britannique
 Broad Skate,raie large
 Brown Cat Shark,holbiche brune
+Browns Bank,Banc de Brown
 BT,CF
 Buffalo Sculpin,chabot-bison
 Butter Sole,plie à écailles régulières
@@ -68,6 +73,7 @@ Cabezon,chabot marbré
 California Grenadier,grenadier de Californie
 Canary Rockfish,sébaste canari
 Catch,Prise
+Catch potential (mt), Prises potentielles (tonnes)
 Catch rate (fish/effective skate),Taux de prise (poisson/raie réelle)
 Catchability,La capturabilité
 Cautious,Prudence
@@ -82,6 +88,8 @@ Cod,morue
 Coefficient,Coefficient
 Commercial,Commercial
 "Commercial biomass (meats, tonnes)","Biomasse commerciale (chair, tonnes)"
+Commercial biomass (metric tonnes),Biomasse commerciale (tonnes)
+Commercial biomass density (metric tonnes/square kilometre), Densité de la biomasse commerciale\n(tonnes/kilomètre carré)
 Commercial bottom trawl CPUE,PUE chalut de fond commercial
 Commercial catch,Prises commerciales
 Commercial CPUE (kg/hour),CPUE commerciales (kg/heure)
@@ -124,6 +132,8 @@ Depletion,Déplétion
 Depth,Profondeur
 Design based,Axé sur la conception
 Deviation from expected biomass in log space,Écart par rapport à la biomasse prévue dans l’espace de relevé
+Difference in biomass (mt), Différence de la biomasse (tonnes)
+Difference in catch potential (mt), Différence des prises\npotentielles (tonnes)
 DIM,MID
 Discarded,Rejetées
 Distance,Distance
@@ -147,6 +157,7 @@ Estimate,Estimation
 Estimated,Estimé
 Estimated age at 50% maturity,Âge à 50% maturité estimé
 Estimated annual mean weight,Poids moyen annuel Estimé
+Exploitation, Exploitation
 Fall,Automne
 Family,Famille
 Feb,fev
@@ -169,9 +180,13 @@ Flathead Sole,balai du Japon
 Frequency,Fréquence
 Full standardization,Normalisation complète
 Full standardization minus interactions,Normalisation complète mois les interactions
+Fully recruited,Entièrement recruté
+Fully recruited biomass estimate (metric tonnes),Biomasse pleinement recrutée (tonnes)
 Gear,Engin
 Geometric mean of hook and line CPUE (fish/set),Moyenne géométrique des CPUE à l’hameçon et à la ligne (poisson/ensemble)
 Geometric mean of trawl CPUE (kg/hr),Moyenne géométrique des CPUE du chalut (kg/h)
+Georges\nBank,Banc de\nGeorges
+German Bank,Banc German
 Geostatistical,Géostatique
 Giant Blobsculpin,chabot maculé
 Giant Grenadier,grenadier géant
@@ -183,6 +198,7 @@ Great Sculpin,grand chaboisseau
 Greenstriped Rockfish,sébaste à bandes vertes
 Groundfish trawl fishery footprint,Empreinte de la pêche au chalut du poisson de fond
 Growth,Croissance
+Growth rate,Taux de Croissance
 Gulf Region,Région du Golfe
 Gwaii Haanas National Marine Conservation Area,Aire marine nationale de conservation Gwaii Haanas
 Haida Gwaii,Haida Gwaii
@@ -203,6 +219,7 @@ In press,Sous presse
 Instantaneous natural mortality,Mortalité naturelle instantanée
 Integrated Fishery Management Plan,Plan de gestion intégrée des pêches
 Interactions,Interactions
+International Court of Justice (Hague) Line,Ligne de la cour internationale de justice (Hague)
 IPHC Report of Assessment and Research Activities,Rapport de la CIFP sur les activités d'évaluation et de recherche
 IPHC survey catch rate,Taux de capture du relevé IPHC
 Jan,jan
@@ -214,6 +231,7 @@ June,juin
 Kelp Greenling,sourcil de varech
 kg/hour,kg/heure
 Label,Étiquette
+Lag,Décalage
 Landings,Débarquements
 Last Research Document,Plus récent document de recherche
 Last Science Advisory Report,Dernier avis scientifique
@@ -272,6 +290,7 @@ No,Non
 No Status,Sans statut
 None,Aucun
 Normal,Normale
+North, Nord
 North Pacific Spiny Dogfish,aiguillat commun du Pacifique Nord
 Northing,Ordonnée
 Not at Risk,Non en péril
@@ -310,6 +329,9 @@ Pacific Staghorn Sculpin,chabot armé
 Pacific Tomcod,poulamon du Pacifique
 Parameter,Paramètre
 Pearly Prickleback,stichée perlée
+Percent change in, Changement en pourcentage de la
+Percent change, Changement en pourcentage
+Percentage, Pourcentage
 Petrale Sole,plie de Californie
 PRD,DPR
 Pre-COSEWIC Review,Examen pré-COSEPAC
@@ -329,12 +351,16 @@ Projected spawning biomass in,Projection de la biomasse reproductrice en
 Projection: BC Albers (NAD 1983),Projection : BC Albers (NAD 1983)
 Proportion,Proportion
 Proportion aged,Proportion âgée de
+Proportional difference in biomass,Différence proportionelle de la biomasse 
+Proportional difference in catch potential,Différence proportionelle\ndes prises potentielles
 Prowfish,zaprora
 Puget Sound Rockfish,sébaste paradeur
 Pygmy Rockfish,sébaste pygmée
 Quebec Region,Région du Québec
 Quillback Rockfish,sébaste à dos épineux
 Ragfish,torchon mou
+Rate,Taux
+Recruit,Recrues
 "Recruit biomass (meats,tonnes)","Biomasse des recrues (chair,tonnes)"
 Recruitment,Recrutement
 Recruitment deviations,des écarts de recrutement
@@ -399,6 +425,7 @@ Snake Prickleback,lompénie-serpent
 SoG,DG
 Source,Source
 Sources of information,Sources de renseignements
+South,Sud
 Southern Rock Sole,fausse limande du Pacifique sud
 Spatial random effects,Effets aléatoires spatiaux
 Spatial random effects only,Effets aléatoires spatiaux seulement
@@ -430,6 +457,7 @@ Stripetail Rockfish,sébaste à queue rayée
 Sturgeon Poacher,agone-esturgeon
 Surface,Surface
 Surface survey,Relevé en surface
+Surplus production,Surplus de production
 Survey,Relevé
 Survey biomass density,Densité de la biomasse du relevé
 Survey biomass index,Indice de la biomasse
@@ -493,6 +521,8 @@ Wolf Eel,loup ocellé
 y,a
 Year,Année
 Years,Années
+year 1,1er année
+year 2,2e année
 Yelloweye Rockfish,sébastes aux yeux jaunes
 Yellowmouth Rockfish,sébaste à bouche jaune
 Yellowtail,queue jaune
