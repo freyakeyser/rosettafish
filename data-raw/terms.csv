@@ -19,6 +19,7 @@ Ageing precision,Précision de al détermination de l'âge
 Alaska Skate,raie de l’Alaska
 Aleutian Skate,raie aléoutienne
 Annual mean weight,Poids moyen annuel
+
 Apr,avr
 April,Avril
 Area,Zone
@@ -32,6 +33,7 @@ Aurora Rockfish,sébaste aurore
 Average Annual Variability,Variabilité annuelle moyenne
 Average F,F moyen
 Average M,M moyen
+
 Bank,Banque
 Base model,Modèle de base
 Basis,Fondament
@@ -72,6 +74,7 @@ C O Sole,C O sole
 Cabezon,chabot marbré
 California Grenadier,grenadier de Californie
 Canary Rockfish,sébaste canari
+
 Catch,Prise
 Catch potential (mt), Prises potentielles (tonnes)
 Catch rate (fish/effective skate),Taux de prise (poisson/raie réelle)
@@ -83,19 +86,30 @@ Central and Arctic Region,Région du Centre et de l'Arctique
 Central Coast,Côte centrale
 Chilipepper,sébaste de Goode
 China Rockfish,sébaste à bandes jaunes
+
+
+
+
 Coastwide,Ensemble de la côte
 Cod,morue
+Cod closure, Fermeture de la morue
 Coefficient,Coefficient
 Commercial,Commercial
+Change in biomass (%),Changement de la biomasse (%)
+Change in biomass (tonnes) ,Changement de la biomasse (tonnes)
+Commercial Biomass,Biomasse commerciale
 "Commercial biomass (meats, tonnes)","Biomasse commerciale (chair, tonnes)"
 Commercial biomass (metric tonnes),Biomasse commerciale (tonnes)
+Commercial Biomass Density ,Densités de la biomasse commerciale
 Commercial biomass density (metric tonnes/square kilometre), Densité de la biomasse commerciale\n(tonnes/kilomètre carré)
 Commercial bottom trawl CPUE,PUE chalut de fond commercial
 Commercial catch,Prises commerciales
 Commercial CPUE (kg/hour),CPUE commerciales (kg/heure)
+Commerical Growth Rate ,Taux de croissance de taille commerciale
 Commercial H & L CPUE,PUE commercial H & L
 Commercial hook and line CPUE,PUE des pêches commerciales à l'hameçon et à la ligne
 Commercial samples,Échantillons commerciaux
+Commercial Size ,Taille Commerciale
 Commercial specimen counts,Décompte des spécimens du commercial
 Commercial trawl catch per unit effort (CPUE),Captures par unité d’effort (CPUE) du chalutage commercial
 Commercial trawl CPUE,PUE chalut commercial
@@ -112,11 +126,16 @@ Correlation,Corrélation
 COSEWIC Status,Désignation du COSEPAC
 COSEWIC Status Report,Rapports de situation du COSEPAC
 Count,Compte
+Covariate,covariable
+Covariates,covariables
 CPUE,PUE
 Criterion,Critère
 Critical,Critique
 Critical zone,Zone critique
 Cumulative Effects Assessment Steps,Étapes de l’évaluation des effets cumulatifs
+Cumulative Area , Zone Cumulée
+Cumulative Proportion of Biomass, Proportion cumulée de biomasse
+Cumulative, Cumulée
 Curlfin Sole,plie à nageoires frisées
 Darkblotched Rockfish,sébaste tacheté
 Data,Données
@@ -130,6 +149,8 @@ Definition,Définition
 Density,Densité
 Depletion,Déplétion
 Depth,Profondeur
+Dep, Prof
+Depth + SST, Profondeur + SMT
 Design based,Axé sur la conception
 Deviation from expected biomass in log space,Écart par rapport à la biomasse prévue dans l’espace de relevé
 Difference in biomass (mt), Différence de la biomasse (tonnes)
@@ -140,6 +161,7 @@ Distance,Distance
 Distribution,Distribution
 Dive,Plongée
 Dive survey,Relevé de plongée
+DMSY,DRMS
 Dover Sole,limande sole du Pacifique
 Dusky Rockfish,sébaste cilié
 Dwarf Wrymouth,terrassier nain
@@ -164,6 +186,7 @@ Feb,fev
 February,février
 Female,Femelle
 Females,Femelles
+Field, Domain
 fish,poisson
 fish/skate,poisson/raie
 Fisheries,Pêches
@@ -178,6 +201,7 @@ Fit,ajusté
 Fixed,Fixe
 Flathead Sole,balai du Japon
 Frequency,Fréquence
+Full model, Modèle complet
 Full standardization,Normalisation complète
 Full standardization minus interactions,Normalisation complète mois les interactions
 Fully recruited,Entièrement recruté
@@ -185,6 +209,7 @@ Fully recruited biomass estimate (metric tonnes),Biomasse pleinement recrutée (
 Gear,Engin
 Geometric mean of hook and line CPUE (fish/set),Moyenne géométrique des CPUE à l’hameçon et à la ligne (poisson/ensemble)
 Geometric mean of trawl CPUE (kg/hr),Moyenne géométrique des CPUE du chalut (kg/h)
+Georges Bank, Banque Georges
 Georges\nBank,Banc de\nGeorges
 German Bank,Banc German
 Geostatistical,Géostatique
@@ -194,8 +219,12 @@ Giant Wrymouth,terrassier géant
 GMA,ZGPF
 GMU,GGPF
 Gravid,Gravides
+Gravel, Gravier
+Gravel-Sand, Gravier-Sable
 Great Sculpin,grand chaboisseau
 Greenstriped Rockfish,sébaste à bandes vertes
+Groundfish, Poisson de fond
+Groundfish closure, Fermeture de poisson de fond
 Groundfish trawl fishery footprint,Empreinte de la pêche au chalut du poisson de fond
 Growth,Croissance
 Growth rate,Taux de Croissance
@@ -209,16 +238,19 @@ Healthy zone,Zone saine
 Hecate Strait/Queen Charlotte Sound Sponge Reef Closures,Fermeture des récifs d'éponges siliceuses du détroit d'Hecate et du détroit de la Reine Charlotte
 Herring,hareng
 HG,HG
+High,Elevé
 Hook and line,Hameçon et ligne
 hour,heure
 hours,heures
 HR,TR
 IFMP,PGIP
 Immature,Immatures
+Index, Indice
 In press,Sous presse
 Instantaneous natural mortality,Mortalité naturelle instantanée
 Integrated Fishery Management Plan,Plan de gestion intégrée des pêches
 Interactions,Interactions
+Intercept, Point d'intersection
 International Court of Justice (Hague) Line,Ligne de la cour internationale de justice (Hague)
 IPHC Report of Assessment and Research Activities,Rapport de la CIFP sur les activités d'évaluation et de recherche
 IPHC survey catch rate,Taux de capture du relevé IPHC
@@ -247,13 +279,18 @@ Log of standardized CPUE,Log de CPUE standardisé
 Log recruitment deviations,Log des écarts du recrutement
 Longnose Skate,pocheteau long-nez
 Longspine Thornyhead,sébastolobe à longues épines
+Low,Faible
 Lower,inférieure
 Lower bound,Limite inférieure
+Lower Reference Point, Point de Reférénce Limite 
+Limit Reference Point, Point de Reférénce Limite
 LRP,PRL
 LRR,TEL
 Male,Mâle
 Male and female,Mâle et femelle
 Males,Mâles
+Management unit, Zone de gestion
+Management\nunit, Zone de\ngestion
 Mar,mar
 March,mars
 Maritimes Region,Région des Maritimes
@@ -263,18 +300,24 @@ Maturity,Maturité
 Maturity frequencies,Fréquences de maturité
 Max,Max
 Maximum,Maximum
+Maximum Sustainable Yield,un Rendement Maximal Soutenu
 May,mai
 MCMC,MCCM
 Mean,Moyenne
 Mean +ve sets,Moyenne des ensembles +
 Mean coefficient of variance,Coefficient moyen de variance
 Mean estimate (kg/km^2),Estimation moyenne (kg/km^2)
+Mean error, erreur moyenne
 Mean positive sets,Moyenne des ensembles positifs
 Median,Médiane
+Medium,Moyen
 Midwater trawl,Chalutage pélagique
 Millions,Millions
 Min,Min
 Minimum,Minimum
+Model, Modèle
+Model residual, Résiduels du modèle
+Model predicted, Prédite du modèle
 Month,Mois
 MP,PG
 MPD,DPM
@@ -285,6 +328,7 @@ N male,N  mâles
 N unsexed,N indéterminé
 National Capital Region,Région de la capitale nationale
 Natural mortality,Mortalité naturelle
+Natural Mortality (proportion),Mortalité naturelle (proportion)
 Newfoundland and Labrador Region,Région de Terre-Neuve et Labrador
 No,Non
 No Status,Sans statut
@@ -294,6 +338,7 @@ North, Nord
 North Pacific Spiny Dogfish,aiguillat commun du Pacifique Nord
 Northing,Ordonnée
 Not at Risk,Non en péril
+No, Non
 Nov,nov
 November,novembre
 Number-at-age,Nombre selon l’âge
@@ -303,7 +348,7 @@ Number of age-2 recruits,Nombre de recrues d’âge 2
 Number of hooks returned each year,Nombre d’hameçons récupérés chaque année
 Objective,Objectif
 Observed annual mean weight,Poids moyen annuel observé
-Occurence Probability,probabilité d'occurrence
+Occurrence Probability,Probabilité d'occurrence
 Oct,oct
 October,octobre
 OM,ME
@@ -329,13 +374,16 @@ Pacific Staghorn Sculpin,chabot armé
 Pacific Tomcod,poulamon du Pacifique
 Parameter,Paramètre
 Pearly Prickleback,stichée perlée
-Percent change in, Changement en pourcentage de la
 Percent change, Changement en pourcentage
+Percent change in, Changement en pourcentage de la
+Percent change in biomass ,Changement dans la biomasse en pourcentage
 Percentage, Pourcentage
 Petrale Sole,plie de Californie
 PRD,DPR
 Pre-COSEWIC Review,Examen pré-COSEPAC
 Precision,Précision
+Prediction, Prédiction
+Predicted, Prédite
 Predicted biomass density (kg/m2),Densité prévue de la biomasse (kg/m2)
 Prediction (depth effects + spatial random effects),Prédiction (effets de profondeur + effets aléatoires spatiaux)
 Prediction (depth effects only),Prédiction (effets de profondeur seulement)
@@ -346,6 +394,11 @@ Prince Rupert District,District de Prince Rupert
 Prior,valeur a priori
 Prior probability distribution,La distribution de la probabilité a priori
 Priors,valeurs a priori
+Principle Component Analysis, Analyse en composantes de principe
+Principle Component,Composant de principe
+PC, CP
+PCA, ACP
+Probability,Probabilité
 Probability mature,Probabilité de maturité
 Projected spawning biomass in,Projection de la biomasse reproductrice en
 Projection: BC Albers (NAD 1983),Projection : BC Albers (NAD 1983)
@@ -359,9 +412,14 @@ Pygmy Rockfish,sébaste pygmée
 Quebec Region,Région du Québec
 Quillback Rockfish,sébaste à dos épineux
 Ragfish,torchon mou
+Random Field, Domain Aléatoire
+Range, Domain
+Range of Field, Gamme de Domain
 Rate,Taux
 Recruit,Recrues
+Recruit Biomass,Biomasse des recrues
 "Recruit biomass (meats,tonnes)","Biomasse des recrues (chair,tonnes)"
+Recruit Growth Rate ,Taux de croissance des recrues
 Recruitment,Recrutement
 Recruitment deviations,des écarts de recrutement
 Red Irish Lord,chabot trilobé rouge
@@ -376,6 +434,7 @@ Relative length frequency,Fréquence de longueur relative
 Released at sea,Rejetés en mer
 Rescaled,Indice remis à l'échelle
 Residual,Résiduels
+Residuals,Résiduels
 Resting,Au repos
 Rex Sole,plie cynoglosse royale
 Ripe,Mûrs
@@ -385,6 +444,8 @@ Roe seine fishery,Pêche au hareng rogué à la senne
 RoeGN,RogueFM
 RoeSN,RogueSN
 Role,Rôle
+Root Mean Square Error, Erreur Quadratique Moyenne
+RMSE,EQM
 Rosethorn Rockfish,sébaste rosacé
 Rougheye Blackspotted Rockfish Complex,complexe du sébaste à œil épineux/sébaste à taches noires
 Rougheye/Blackspotted,œil épineux/taches noires
@@ -393,6 +454,7 @@ Roughtail Skate,raie à queue rude
 Running Ripe,Pleins et actifs
 Sablefish,morue charbonnière
 Salmon Shark,taupe du Pacifique
+Sand, Sable
 Sand Sole,sole-pole
 Sandpaper Skate,raie rugueuse
 SAR,RES
@@ -404,6 +466,8 @@ Science Branch,Secteur des sciences
 Scientific name,Nom scientifique
 Scott Islands Marine National Wildlife Area,Réserve nationale de faune en milieu marin des îles Scott
 SD,ET
+Sea Surface Temperature, Température de surface de la mer
+SST, SMT
 Secondary age (years),Âge secondaire (ans)
 Section,Section
 Seine,Senne
@@ -411,6 +475,11 @@ Sep,sep
 September,septembre
 Series,Séries
 Sex,Sexe
+SFA29A,ZPP29A
+SFA29B,ZPP29B
+SFA29C,ZPP29C
+SFA29D,ZPP29D
+SFA29E,ZPP29E
 SGaan Kinghlas Bowie Seamount Marine Protected Area,Zone de protection marine du mont sous-marin Bowie (SGaan Kinghlas)
 Sharpchin Rockfish,sébaste à menton pointu
 Shiner Perch,perche-méné
@@ -427,6 +496,7 @@ Source,Source
 Sources of information,Sources de renseignements
 South,Sud
 Southern Rock Sole,fausse limande du Pacifique sud
+SPA ,ZPrP
 Spatial random effects,Effets aléatoires spatiaux
 Spatial random effects only,Effets aléatoires spatiaux seulement
 Spatiotemporal random effects only,Effets aléatoires spatio-temporels seulement
@@ -455,9 +525,13 @@ Strait of Georgia,Détroit de Georgie
 Strait of Georgia/Howe Sound Sponge Reef Closures,Fermeture des pêches dans les récifs d'éponges du détroit de Georgie et de la baie Howe
 Stripetail Rockfish,sébaste à queue rayée
 Sturgeon Poacher,agone-esturgeon
+Subarea,sous-zone
 Surface,Surface
 Surface survey,Relevé en surface
 Surplus production,Surplus de production
+Surplus production (mt),Surplus de production (tonnes)
+Surplus production (%),Surplus de production (%)
+Surplus production (rate),Surplus de production (taux)
 Survey,Relevé
 Survey biomass density,Densité de la biomasse du relevé
 Survey biomass index,Indice de la biomasse
@@ -486,6 +560,7 @@ Tons,Tonnes
 Tope Shark,milandre
 Total,Totale
 Total catch,Des prises totales
+Total mortality ,Mortalité totale
 Totals,Totales
 Tow,Trait
 Trap,Casier
@@ -498,7 +573,10 @@ Unsexed,Indéterminé
 Unstandardized,Non normalisée
 Upper,supérieure
 Upper bound,Limite supérieure
+Upper Stock Reference, Point de Reférénce Supérieur
 USA,les États-Unis
+US, États-Unis
+U.S., États-Unis
 USR,RSS
 Uterine Eggs,Oeufs utérins
 Value,Valeur
@@ -526,6 +604,7 @@ year 2,2e année
 Yelloweye Rockfish,sébastes aux yeux jaunes
 Yellowmouth Rockfish,sébaste à bouche jaune
 Yellowtail,queue jaune
+Yellowtail closure, Fermeture de la queue jaune
 Yellowtail Flounder,Limande à queue jaune
 Yellowtail Rockfish,sébaste à queue jaune
 Yes,Oui
